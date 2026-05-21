@@ -1,0 +1,6 @@
+{
+  "name": "Rozgar Mela",
+  "description": "Hyperlocal vernacular job board for blue-collar workers (drivers, helpers, delivery boys, factory workers) with job cards and instant WhatsApp/dial contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
